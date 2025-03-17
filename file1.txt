@@ -1,2 +1,3 @@
 file1
 add file1 text
+edit file1 is new
